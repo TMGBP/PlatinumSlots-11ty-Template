@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "image": "/assets/home-promotions-first.webp",
+      "title": "First Deposit Bonus <br>100% up to €500 <br>+ 200 Free Spins"
+    },
+    {
+      "image": "/assets/home-promotions-second.webp",
+      "title": "Second Deposit Bonus <br>100% up to €500"
+    },
+    {
+      "image": "/assets/home-promotions-third.webp",
+      "title": "Third Deposit Bonus <br>50% up to €500"
+    },
+    {
+      "image": "/assets/home-promotions-fourth.webp",
+      "title": "Third Deposit Bonus <br>50% up to €500"
+    }
+  ]
+}

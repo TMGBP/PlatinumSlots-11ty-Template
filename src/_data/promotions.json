@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "image": "/assets/hp_icons/card-bg-1.webp",
+      "title": "Erster Einzahlungsbonus <br>100% bis zu €500 <br>+ 200 Freispiele"
+    },
+    {
+      "image": "/assets/hp_icons/card-bg-2.webp",
+      "title": "Zweiter Einzahlungsbonus <br>100% bis zu €500"
+    },
+    {
+      "image": "/assets/hp_icons/card-bg-3.webp",
+      "title": "Dritter Einzahlungsbonus <br>50% bis zu €500"
+    },
+    {
+      "image": "/assets/hp_icons/card-bg-4.webp",
+      "title": "Vierter Einzahlungsbonus <br>50% bis zu €500"
+    }
+  ]
+}

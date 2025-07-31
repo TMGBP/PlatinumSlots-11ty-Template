@@ -1,0 +1,19 @@
+{
+  "footer__social-links": [
+    {
+      "href": "",
+      "alt": "facebook",
+      "src": "/assets/facebook.svg"
+    },
+    {
+      "href": "",
+      "alt": "twitter",
+      "src": "/assets/twitter.svg"
+    },
+    {
+      "href": "",
+      "alt": "instagram",
+      "src": "/assets/instagram.svg"
+    }
+  ]
+}

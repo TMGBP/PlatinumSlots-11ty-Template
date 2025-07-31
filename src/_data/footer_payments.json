@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "master-card", "src": "/assets/master-card.svg" },
+    { "name": "paysafecard", "src": "/assets/paysafecard.svg" },
+    { "name": "skrill", "src": "/assets/skrill.svg" },
+    { "name": "neteller", "src": "/assets/neteller.svg" },
+    { "name": "neosurf", "src": "/assets/neosurf.svg" },
+    { "name": "mifinity", "src": "/assets/mifinity.svg" },
+    { "name": "bank-transfer", "src": "/assets/bank-transfer.svg" },
+    { "name": "finteqhub", "src": "/assets/finteqhub.svg" },
+    { "name": "bitcoin", "src": "/assets/bitcoin.svg" },
+    { "name": "ethereum", "src": "/assets/ethereum.svg" },
+    { "name": "litecoin", "src": "/assets/litecoin.svg" },
+    { "name": "bitcoin-cash", "src": "/assets/bitcoin-cash.svg" },
+    { "name": "dogecoin", "src": "/assets/dogecoin.svg" },
+    { "name": "visa", "src": "/assets/visa.svg" }
+  ]
+} 

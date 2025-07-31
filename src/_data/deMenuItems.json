@@ -1,0 +1,39 @@
+{
+  "menuItems": [
+    {
+      "title": "Automaten",
+      "links": [
+        { "text": "Top Spiele" },
+        { "text": "Spielautomaten" },
+        { "text": "Jackpot" },
+        { "text": "Bonus Buy" },
+        { "text": "Megaways" },
+        { "text": "Instant Win" },
+        { "text": "Beliebte Spiele" }
+      ]
+    },
+    {
+      "title": "Live Spiele",
+      "links": [
+        { "text": "Beliebt" },
+        { "text": "Gameshows" },
+        { "text": "Blackjack" },
+        { "text": "Baccarat" },
+        { "text": "Poker" },
+        { "text": "Andere Spiele" }
+      ]
+    },
+    {
+      "title": "Information",
+      "links": [
+        { "text": "Hilfe-Center" },
+        { "text": "Allgemeine Bonusbedingungen" },
+        { "text": "Verantwortungsvolles Spielen" },
+        { "text": "Datenschutzbestimmungen" },
+        { "text": "Cookie-Richtlinie" },
+        { "text": "FAQ" },
+        { "text": "Transparenz" }
+      ]
+    }
+  ]
+}

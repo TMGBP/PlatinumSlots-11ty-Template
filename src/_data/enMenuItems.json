@@ -1,0 +1,37 @@
+{
+  "footerMenus": [
+    {
+      "title": "Slot Games",
+      "links": [
+        { "name": "Top Games", "href": "/top-games" },
+        { "name": "Slots", "href": "/slots" },
+        { "name": "Jackpot", "href": "/jackpot" },
+        { "name": "Bonus Buy", "href": "/bonus-buy" },
+        { "name": "Megaways", "href": "/megaways" },
+        { "name": "Instant Win", "href": "/instant-win" }
+      ]
+    },
+    {
+      "title": "Live Casino",
+      "links": [
+        { "name": "Popular", "href": "/popular" },
+        { "name": "Gameshows", "href": "/gameshows" },
+        { "name": "Blackjack", "href": "/blackjack" },
+        { "name": "Baccarat", "href": "/baccarat" },
+        { "name": "Poker", "href": "/poker" },
+        { "name": "Other Games", "href": "/other-games" }
+      ]
+    },
+    {
+      "title": "Information",
+      "links": [
+        { "name": "Help Center", "href": "/help-center" },
+        { "name": "Responsible Gaming", "href": "/responsible-gaming" },
+        { "name": "Privacy Policy", "href": "/privacy-policy" },
+        { "name": "Cookie Policy", "href": "/cookie-policy" },
+        { "name": "FAQ", "href": "/faq" },
+        { "name": "Terms of Use", "href": "/terms-of-use" }
+      ]
+    }
+  ]
+}

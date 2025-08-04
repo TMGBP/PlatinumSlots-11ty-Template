@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
 title: "Ramses Book"
-photo: "/assets/backgrounds/GAMRamsesBook.jpg"
-provider: "Gamomat"
-description: "Das thematische Spiel Ramses Book bietet ein erstklassiges Spielerlebnis. Achten Sie auf das mächtige ägyptische Buch, das als Joker fungiert und Freispiele mit einem Bonussymbol freischaltet."
-iframe: "https://cdn.launcher.a8r.games/index.html?options=eyJ0YXJnZXRfZWxlbWVudCI6ImE4cl9pZnJhbWUiLCJsYXVuY2hfb3B0aW9ucyI6eyJnYW1lX2xhdW5jaGVyX3VybCI6Imh0dHBzOi8vY2RuLmxhdW5jaGVyLmE4ci5nYW1lcy9pbmRleC5odG1sIiwiZ2FtZV91cmwiOiJodHRwczovL3BsYXktcmdzLWd0aHIuZ2FtZXRlY2hpb20ubmV0L2FnZ19wbHVzX3B1YmxpYy9sYXVuY2gvd2FsbGV0cy9TT0ZUU1dJU1MyL2dhbWVzL0dBTV9SQUIvb3Blbj90b2tlbj0mbGFuZ3VhZ2VDb2RlPWVuJnBsYXlNb2RlPUZVTiZsb2JieVVybD1odHRwczovL3d3dy5wbGF0aW5jYXNpbm8uY29tL2V4aXRfaWZyYW1lJmNhc2hpZXJVcmw9JmN1cnJlbmN5Q29kZT0mY2xpZW50VHlwZT1QQyZ1c2VybmFtZT0mY291bnRyeUNvZGU9IiwibG9iYnlfdXJsIjoiaHR0cHM6Ly9pZnJhbWUuYThyLmdhbWVzLyIsInN0cmF0ZWd5IjoiZGV0ZWN0IiwidG9rZW5faWQiOiJiODdmZThjNi1kYTBiLTQxODQtYjEyYi04Zjk4ODkwNWQ4YTEifX0%3D"
+canonical: "http://platinumslots.com/game/ramses-book"
+photo: "/assets/backgrounds/ramses-book.jpg"
+provider: "GAMOMAT"
+description: "Das „Ramses-Buch“ auf PlatinumSlots.com entführt Sie in das goldene Zeitalter der Pharaonen, wo sich jeder Spin anfühlt, als würden Sie ein königliches Artefakt entdecken. Dieser Slot mit 5 Walzen und 10 Gewinnlinien bietet das rätselhafte Buch von Ramses als Wild und Scatter; landen Sie drei oder mehr davon, um 10 Freispiele zu aktivieren. Während des Freispiels kann sich ein zufällig ausgewähltes Symbol vergrößern und ganze Walzen bedecken, wodurch ein Spin zu einer Jackpot-Kaskade wird. „Ramses-Buch“ gehört zu den fesselndsten Schatzsuchen von PlatinumSlots, komplett mit detailreichen Hieroglyphen, einem stimmungsvollen Soundtrack aus dem Nahen Osten und einer spannenden Glücksspielfunktion, mit der Spieler ihre Gewinne verdoppeln können, indem sie die Farbe einer Karte vorhersagen."
+iframe: "https://www.platinumslots.com/games/oryx/GAMRamsesBook94/252064"
 ---

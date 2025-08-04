@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
 title: "Ramses Book"
-photo: "/assets/backgrounds/GAMRamsesBook.jpg"
-provider: "Gamomat"
-description: "The themed game Ramses Book offers a first-class gaming experience. Look out for the mighty Egyptian book, which is wild and unlocks Free Games with a bonus symbol."
-iframe: "https://cdn.launcher.a8r.games/index.html?options=eyJ0YXJnZXRfZWxlbWVudCI6ImE4cl9pZnJhbWUiLCJsYXVuY2hfb3B0aW9ucyI6eyJnYW1lX2xhdW5jaGVyX3VybCI6Imh0dHBzOi8vY2RuLmxhdW5jaGVyLmE4ci5nYW1lcy9pbmRleC5odG1sIiwiZ2FtZV91cmwiOiJodHRwczovL3BsYXktcmdzLWd0aHIuZ2FtZXRlY2hpb20ubmV0L2FnZ19wbHVzX3B1YmxpYy9sYXVuY2gvd2FsbGV0cy9TT0ZUU1dJU1MyL2dhbWVzL0dBTV9SQUIvb3Blbj90b2tlbj0mbGFuZ3VhZ2VDb2RlPWVuJnBsYXlNb2RlPUZVTiZsb2JieVVybD1odHRwczovL3d3dy5wbGF0aW5jYXNpbm8uY29tL2V4aXRfaWZyYW1lJmNhc2hpZXJVcmw9JmN1cnJlbmN5Q29kZT0mY2xpZW50VHlwZT1QQyZ1c2VybmFtZT0mY291bnRyeUNvZGU9IiwibG9iYnlfdXJsIjoiaHR0cHM6Ly9pZnJhbWUuYThyLmdhbWVzLyIsInN0cmF0ZWd5IjoiZGV0ZWN0IiwidG9rZW5faWQiOiJiODdmZThjNi1kYTBiLTQxODQtYjEyYi04Zjk4ODkwNWQ4YTEifX0%3D"
+canonical: "http://platinumslots.com/game/ramses-book"
+photo: "/assets/backgrounds/ramses-book.jpg"
+provider: "GAMOMAT"
+description: "The “Ramses Book” on PlatinumSlots.com transports you to the pharaohs' golden age, where each spin feels like discovering a royal artifact. This 5-reel, 10-payline slot features the enigmatic Book of Ramses as both Wild and Scatter; land three or more to activate 10 free spins. During free play, a randomly selected symbol can enlarge to cover entire reels, transforming one spin into a jackpot cascade. “Ramses Book” is among PlatinumSlots’ most engrossing treasure hunts, complete with intricately detailed hieroglyphs, an evocative soundtrack from the Middle East, and a thrilling gamble feature that allows players to double their winnings by predicting the color of a card."
+iframe: "https://www.platinumslots.com/games/oryx/GAMRamsesBook94/252064"
 ---

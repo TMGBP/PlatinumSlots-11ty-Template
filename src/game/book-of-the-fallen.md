@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
-title: "Book of the Fallen"
-photo: "/assets/backgrounds/bookoffallen.jpg"
-provider: "Pragmatic Play"
-description: "Your favourite intrepid explorer John Hunter is back in Book of the Fallen™, and he needs your help to uncover ancient treasure in this 3×5 slot. Set in a tomb that time has forgotten, higher value symbols are those from ancient Egypt, while a book containing the Eye of Anubis represents WILD and SCATTER symbols. Hitting 3 of these symbols will trigger the Free Spins round. The Free Spins round will trigger 10 Free Spins providing a great chance to ensure you leave with some treasure. John Hunter has plenty of tricks up his sleeve, and a special Super Spins Ante Bet feature provides just that. In the base game, you can opt to pay 10x current total for every spin. When this feature is on, each spin plays like a Free Spins feature."
-iframe: "https://www.platincasino.com/games/pragmaticexternal/BookofFallen/128222"
+title: "Book Of The Fallen"
+canonical: "https://www.platinumslots.com/game/book-of-the-fallen"
+photo: "/assets/backgrounds/book-of-fallen.jpg"
+provider: "Pragmaticplay"
+description: "Book of the Fallen” on PlatinumSlots.com beckons you into a shadowy, spectral temple where age-old spirits protect unimaginable wealth. This slot game with 5 reels and 10 paylines on platinumslots.com includes the Fallen Tome as both Wild and Scatter—get three or more to activate 12 free spins. In the Free Spins round, one symbol is selected at random to stretch across the reels whenever it shows up, unlocking the vault for huge wins. “Book of the Fallen” offers a hair-raising plunge into concealed treasures and forgotten tombs, with its uncanny, atmospheric visuals; chilling soundtrack; and time-honored Gamble feature, which lets you double your winnings by predicting a card’s suit."
+iframe: "https://www.platinumslots.com/games/pragmaticexternal/BookofFallen/134702"
 ---

@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
-title: "Book of the Fallen"
-photo: "/assets/backgrounds/bookoffallen.jpg"
-provider: "Pragmatic Play"
-description: "Ihr beliebter unerschrockener Forscher John Hunter ist in Book of the Fallen™ zurück, und er braucht Ihre Hilfe, um in diesem 3×5-Slot einen antiken Schatz zu heben. In einem Grabmal, das die Zeit vergessen hat, sind die höherwertigen Symbole aus dem alten Ägypten, während ein Buch mit dem Auge des Anubis die WILD- und SCATTER-Symbole darstellt. Wenn Sie 3 dieser Symbole treffen, wird die Freispielrunde ausgelöst. In der Freispielrunde werden 10 Freispiele ausgelöst, die Ihnen die Möglichkeit geben, mit einem Schatz nach Hause zu gehen. John Hunter hat viele Tricks auf Lager, und eine spezielle Super Spins Ante Bet-Funktion bietet genau das. Im Basisspiel können Sie für jede Drehung das 10-fache des aktuellen Gesamteinsatzes zahlen. Wenn diese Funktion aktiviert ist, wird jede Drehung wie eine Freispielfunktion gespielt."
-iframe: "https://www.platincasino.com/games/pragmaticexternal/BookofFallen/128222"
+title: "Book Of The Fallen"
+canonical: "https://www.platinumslots.com/game/book-of-the-fallen"
+photo: "/assets/backgrounds/book-of-fallen.jpg"
+provider: "Pragmaticplay"
+description: "„Book of the Fallen“ auf PlatinumSlots.com entführt Sie in einen dunklen, geisterhaften Tempel, in dem uralte Geister unvorstellbare Reichtümer beschützen. Dieses Slot-Spiel mit 5 Walzen und 10 Gewinnlinien auf platinumslots.com enthält das Fallen Tome als Wild und Scatter – erhalten Sie drei oder mehr, um 12 Freispiele zu aktivieren. In der Freispielrunde wird ein zufällig ausgewähltes Symbol ausgewählt, das sich bei jedem Erscheinen über die Walzen erstreckt und den Tresor für riesige Gewinne öffnet. „Book of the Fallen“ bietet einen haarsträubenden Sprung in verborgene Schätze und vergessene Gräber mit unheimlichen, stimmungsvollen Bildern, einem gruseligen Soundtrack und der altbewährten Gamble-Funktion, mit der Sie Ihre Gewinne verdoppeln können, indem Sie die Farbe einer Karte vorhersagen."
+iframe: "https://www.platinumslots.com/games/pragmaticexternal/BookofFallen/134702"
 ---

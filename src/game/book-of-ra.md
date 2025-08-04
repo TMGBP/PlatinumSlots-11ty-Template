@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
-title: "Book of Ra"
-photo: "/assets/backgrounds/bookofra.jpg"
-provider: "Novomatic"
-description: "Awaken the ancient mysteries and majesties of Egypt with Book of Ra™. This video slot with 10 lines and 5 reels takes you on an adventure through ancient Egypt. Discover Book of Ra™ to activate the action-packed feature and uncover the long-lost treasures of the pharaohs."
-iframe: "https://www.platincasino.com/games/n2games/BookofRa/274671"
+title: "Book Of Ra"
+canonical: "https://www.platinumslots.com/game/book-of-ra-deluxe-buy-bonus"
+photo: "/assets/backgrounds/book-of-ra.jpg"
+provider: "Novamatic"
+description: "The “Book of Ra Deluxe Buy Bonus” on PlatinumSlots.com enhances the traditional Egyptian adventure with a one-click feature—allowing you to buy direct entry into the Free Spins round rather than waiting for the usual scatter symbols. This deluxe edition with 5 reels and 10 paylines still employs the mystical Book symbol as both Wild and Scatter, but now on platinumslots you can instantly activate 10 free spins with a guaranteed expanding-symbol feature. During Free Spins, one symbol expands to occupy whole reels, maximizing your chances of winning. If you're feeling adventurous, you can retrigger more spins directly from the bonus screen."
+iframe: "https://www.platinumslots.com/games/n2games/BookofRaDeluxeBuyBonus/173484"
 ---

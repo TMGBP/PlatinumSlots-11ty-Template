@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
-title: "Gates of Olympus 1000"
-photo: "/assets/backgrounds/gatesofolympus1000.jpg"
-provider: "Pragmatic Play"
-description: "Mach dich bereit für eine weitere Begegnung mit Zeus in Gates of Olympus 1000!"
-iframe: "https://www.platincasino.com/games/pragmaticexternal/GatesofOlympus1000/273746"
+title: "Gates Of Olympus 1000"
+canonical: "https://www.platinumslots.com/game/gates-of-olympus-1000"
+photo: "/assets/backgrounds/gates-of-olympus.jpg"
+provider: "PRAGMATICPLAY"
+description: "Auf PlatinumSlots.com entführt Sie „Gates of Olympus“ auf den Gipfel des Olymp, wo Zeus‘ Blitze ein 6-Walzen-Raster mit „Pay Anywhere“-Funktion treffen. Erhalten Sie 8 oder mehr Zeus-Scatter, um bis zu 15 Freispiele zu aktivieren. Jede Kaskade kann Multiplikatoren von 2- bis 1000-fach für himmlische Belohnungen hinzufügen. Nutzen Sie die Ante-Bet-Funktion auf PlatinumSlots.com, um Ihren Einsatz zu erhöhen und Ihre Chancen auf die Bonusrunde zu verbessern, oder stürzen Sie sich mit der Option „Bonus kaufen“ direkt ins Geschehen. „Gates of Olympus“ bietet ein Slot-Erlebnis, das dem Göttlichen in nichts nachsteht – mit elektrisierender Grafik, einem donnernden Soundtrack und ständig wirbelnden Walzen."
+iframe: "https://www.platinumslots.com/games/pragmaticexternal/GatesofOlympus1000/153494"
 ---

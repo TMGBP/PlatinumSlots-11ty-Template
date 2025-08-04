@@ -1,8 +1,9 @@
 ---
 layout: "layouts/games.njk"
 title: "Sweet Bonanza 1000"
-photo: "/assets/backgrounds/sweetbonanza1000.jpg"
-provider: "Pragmatic Play"
-description: "Embark on a journey to a sugary wonderland in Sweet Bonanza 1000 This 5×5 slot takes you on a journey through a vibrant wonderland of treats as fruity symbols such as melons and grapes pay alongside glittering hearts all over the screen. Spinning the reels in four lollipops unlocks the free spins round and continues a journey that combines numerous features and modifiers to send players into a sugar rush!"
-iframe: "https://www.platincasino.com/games/pragmaticexternal/SweetBonanza1000/331380"
+canonical: "https://www.platinumslots.com/game/sweet-bonanza"
+photo: "/assets/backgrounds/sweet-bonanza-1000.jpg"
+provider: "Pragramaticplay"
+description: "“Sweet Bonanza 1000” on PlatinumSlots.com amplifies the candy frenzy with a tumbling grid of 6×5, where a cluster of eight or more scatter lollipops activates 10 free spins. While in the bonus round on PlatinumSlots, mid-cascade random multipliers ranging from ×2 to an astonishing ×1000 come down, accumulating across victories for immense payouts. You can retrigger up to five more free spins, use the Ante Bet to boost your trigger chance by 25 %, or simply jump straight into the action with the Chance Buy feature—putting you right where the sweetest wins await."
+iframe: "https://www.platinumslots.com/games/pragmaticexternal/SweetBonanza/135369"
 ---

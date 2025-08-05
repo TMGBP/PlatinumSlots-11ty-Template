@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Gates Of Olympus"
 canonical: "https://www.platinumslots.com/game/gates-of-olympus"
 photo: "/assets/backgrounds/gates-of-olympus-original.jpg"

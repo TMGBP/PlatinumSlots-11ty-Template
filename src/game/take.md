@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Take"
 canonical: "https://www.platinumslots.com/game/take-5"
 photo: "/assets/backgrounds/take.jpg"

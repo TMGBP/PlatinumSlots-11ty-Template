@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Sweet Bonanza"
 canonical: "https://www.platinumslots.com/game/sweet-bonanza"
 photo: "/assets/backgrounds/sweet-bonanza.jpg"

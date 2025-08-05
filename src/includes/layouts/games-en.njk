@@ -1,0 +1,51 @@
+{% extends "base-en.njk" %}
+
+{% block content %}
+  <div class="game-page" style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    {% if photo %}
+      background-image: url('{{ photo }}');
+      background-size: cover;
+      background-position: center;
+    {% else %}
+      background-color: var(--background-color);
+    {% endif %}
+    color: var(--text-color);
+  ">
+    
+    <div class="game-container" style="
+      width: 100%; 
+      max-width: 900px; 
+      margin-top: 80px; 
+      margin-bottom:50px;
+      background-color: var(--background-color); /* Card-style background color */
+      border-radius: 8px; /* Rounded corners */
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+      padding: 20px; /* Padding for content */
+    ">
+      <div class="game-header">
+        <h1>
+          {{ title }} Demo <span style="color: lightgrey; font-size: 14px;">by {{ provider }}</span>
+        </h1>
+      </div>
+      
+      <div style="position: relative; width: 100%; height: 60vh; /* Set height here as needed */">
+        <iframe
+          src="{{ iframe }}"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="{{ title }} Casino Game"
+          allowfullscreen
+          sandbox="allow-scripts allow-same-origin allow-popups"
+        ></iframe>
+      </div>
+
+      <div class="game-embed-description" style="margin-top: 20px;"> 
+        <p>{{ description }}</p>
+      </div>
+    </div>
+  </div>
+{% endblock %}

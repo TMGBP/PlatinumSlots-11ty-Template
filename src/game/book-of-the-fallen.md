@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Book Of The Fallen"
 canonical: "https://www.platinumslots.com/game/book-of-the-fallen"
 photo: "/assets/backgrounds/book-of-fallen.jpg"

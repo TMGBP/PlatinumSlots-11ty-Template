@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Big Bass Splash"
 canonical: "https://www.platinumslots.com/game/big-bass-splash"
 photo: "/assets/backgrounds/big-bass-splash.jpg"

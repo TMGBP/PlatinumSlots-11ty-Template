@@ -10,6 +10,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="{{ colors.header_footer }}">
     <meta name="description" content="{{ meta_description }}" data-rh="true">
     <meta name="robots" content="{{settings.index}}" data-rh="true">
+    <meta itemprop="datePublished" content="{{settings.date_published}}">
+    <meta itemprop="dateModified" content="{{settings.last_updated}}">
+
 
    <!-- ─── Open Graph Tags (Deutsch) ─── -->
    < meta property="og:title"       content="Platinum Slots Casino | Registrieren &amp; bis zu 2.000 € + 200 Freispiele sichern" />
@@ -209,7 +212,7 @@
                      <div class="footer__menus">
                      {% for menu in deMenuItems.menuItems %}
                      <div class="footer-menu">
-                        <button class="text-btn text-btn--primary">
+                        <button class="text-btn text-btn--primary footer-btn">
                            <span class="footer-menu__title">{{ menu.title }}</span>
                            <i class="footer-menu__icon font-icons font-icons--angle-down-small"></i>
                         </button>

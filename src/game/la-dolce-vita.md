@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "la-dolce-vita"
 canonical: "https://www.platinumslots.com/game/la-dolce-vita"
 photo: "/assets/backgrounds/la-dolce-vita.jpg"

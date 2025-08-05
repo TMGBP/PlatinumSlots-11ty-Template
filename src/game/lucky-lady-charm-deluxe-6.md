@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Lucky Lady Charm Deluxe 6"
 canonical: "https://www.platinumslots.com/game/lucky-ladys-charm-deluxe-6"
 photo: "/assets/backgrounds/lucky-lady-charm.jpg"

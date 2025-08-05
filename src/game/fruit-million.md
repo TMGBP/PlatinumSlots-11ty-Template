@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Fruit Million"
 canonical: "https://www.platinumslots.com/game/fruit-million"
 photo: "/assets/backgrounds/fruit-million.jpeg"

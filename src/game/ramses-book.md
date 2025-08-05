@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Ramses Book"
 canonical: "http://platinumslots.com/game/ramses-book"
 photo: "/assets/backgrounds/ramses-book.jpg"

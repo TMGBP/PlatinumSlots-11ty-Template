@@ -126,7 +126,7 @@
 }
 
 .text-btn {
-  background-color:#1e1045;
+  background-color: var(--header-color);
   border: none;
   box-shadow: none;
   display: flex;
@@ -137,6 +137,10 @@
   padding: 0;
   transition: color 0.3s ease;
   vertical-align: top;
+}
+
+.footer-btn {
+  background-color: var(--background-color);
 }
 
 .text-btn:not(:disabled) {
@@ -32853,7 +32857,7 @@ thead .tourn-winners__cell--prize {
 
 @media (min-width: 768px) {
   .layout-invisible-header__main {
-    padding-top: 56px;
+    padding-top: 35px;
   }
 }
 
@@ -32866,7 +32870,7 @@ thead .tourn-winners__cell--prize {
 
 @media (min-width: 1200px) {
   .layout-invisible-header__main {
-    padding-top: 64px;
+    /*padding-top: 64px;*/
   }
 }
 

@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Midas Golden Touch 2"
 canonical: "https://www.platinumslots.com/game/midas-golden-touch-2"
 photo: "/assets/backgrounds/midas-golden-touch.jpg"

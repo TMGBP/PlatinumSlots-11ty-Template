@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Crystal Ball"
 canonical: "https://www.platinumslots.com/game/crystal-ball"
 photo: "/assets/backgrounds/crystal-ball.jpeg"

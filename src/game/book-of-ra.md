@@ -1,5 +1,4 @@
 ---
-layout: "layouts/games.njk"
 title: "Book Of Ra"
 canonical: "https://www.platinumslots.com/game/book-of-ra-deluxe-buy-bonus"
 photo: "/assets/backgrounds/book-of-ra.jpg"

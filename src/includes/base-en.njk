@@ -8,7 +8,16 @@
     <meta name="theme-color" content="{{ colors.header_footer }}">
     <meta name="apple-mobile-web-app-status-bar-style" content="{{ colors.header_footer }}">
     <meta name="description" content="{{ meta_description }}" data-rh="true">
-    <meta name="robots" content="{{settings.index}}" data-rh="true">
+    <meta name="robots" content="index, follow" data-rh="true">
+
+     <!-- ─── Open Graph Tags ─── -->
+  <meta property="og:title"       content="{{ title }}" />
+  <meta property="og:description" content="{{ meta_description }}" />
+  <meta property="og:url"         content="{{ canonical }}" />
+  <meta property="og:image"       content="{{ og_image or '/assets/default-og.jpg' }}" />
+  <meta property="og:type"        content="website" />
+  <meta property="og:site_name"   content="{{ settings.site_name }}" />
+  <meta property="og:locale"      content="en" />
 
     <!-- Title -->
     <title>{{ title }}</title>
